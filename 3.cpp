@@ -3,6 +3,9 @@ using namespace std;
 int main()
 {
 cout<<"hello\n";
-cout<<"this is the edit if F2'' after creating the branch test.";
+cout<<"this";
+cout<<"this  branch";
+cout<<"this is edit on of F2''' on test2 branch";
+>>>>>>> test
 return 0;
 }
