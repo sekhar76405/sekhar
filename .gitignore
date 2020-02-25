@@ -1,0 +1,3 @@
+*.txt
+!6.txt
+!sub_folder/4.txt
